@@ -8,4 +8,5 @@ function triple (numero){
 
 function apply (numero, triple){
     return triple(numero)
-};
+}
+console.log(apply(4, triple));

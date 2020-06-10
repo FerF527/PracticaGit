@@ -7,3 +7,4 @@ let bart = {
 for(let llave in bart){
     console.log( bart[llave]);
 };
+console.log(bart.madre);
