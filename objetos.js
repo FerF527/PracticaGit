@@ -1,5 +1,8 @@
-let auto = {
+let yerba = {
 
-   marca : "ford",
-   modelo : 2015
+   marca : "cachamate",
+   fechaDeElaboracion : 30/05/2020,
+   fechaVencimiento : 17/09/2021
+
+
 }
