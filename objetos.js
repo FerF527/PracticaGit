@@ -1,5 +1,7 @@
 let auto = {
 
-   marca : "ford",
-   modelo : 2015
+   marca : "VW",
+   modelo : 2018,
+   color: "blanco",
+   tipo: "automatico",
 }
