@@ -1,1 +1,1 @@
-let array = ["a", "b", "c"];
+let array = ["azul", "blanco", "celeste"];
